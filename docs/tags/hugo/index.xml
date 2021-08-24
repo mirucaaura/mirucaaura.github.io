@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on miruca&#39;s page</title>
+    <link>https://mirucaaura.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on miruca&#39;s page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <copyright>© 2021 &lt;a href=&#34;https://twitter.com/mirucaaura/&#34;&gt;&lt;span&gt;@mirucaaura&lt;/span&gt;&lt;/a&gt; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 24 Aug 2021 20:04:20 +0900</lastBuildDate><atom:link href="https://mirucaaura.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Article</title>
+      <link>https://mirucaaura.github.io/post/first-article/</link>
+      <pubDate>Tue, 24 Aug 2021 20:04:20 +0900</pubDate>
+      
+      <guid>https://mirucaaura.github.io/post/first-article/</guid>
+      <description>first article. $\LaTeX{}$ is $X^\top X = I$. Define
+$$ f(x)= \sum_{k=0}^{\infty} \frac{ f^{(k)}(x_0)}{n!} \left( x-x_0 \right)^k. $$</description>
+    </item>
+    
+  </channel>
+</rss>

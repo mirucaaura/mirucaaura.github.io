@@ -1,18 +1,14 @@
 ---
 title: "First Article"
+description: "This is a first article!"
 date: 2021-08-24T20:04:20+09:00
 draft: false
-description: This is a first article!
-tags:
-- .vimrc
-- plugins
-- spf13-vim
-- vim
+tags: ["Hugo", "html"]
 katex: math
 ---
 
-first article. math is $X^\top X = I$. Define
+first article. $\LaTeX{}$ is $X^\top X = I$. Define
 
 $$
-AX = b.
+f(x)= \sum_{k=0}^{\infty} \frac{ f^{(k)}(x_0)}{n!} \left( x-x_0 \right)^k.
 $$

@@ -23,8 +23,8 @@
       <pubDate>Tue, 24 Aug 2021 20:04:20 +0900</pubDate>
       
       <guid>https://mirucaaura.github.io/post/first-article/</guid>
-      <description>first article. math is $X^\top X = I$. Define
-$$ AX = b. $$</description>
+      <description>first article. $\LaTeX{}$ is $X^\top X = I$. Define
+$$ f(x)= \sum_{k=0}^{\infty} \frac{ f^{(k)}(x_0)}{n!} \left( x-x_0 \right)^k. $$</description>
     </item>
     
     <item>
