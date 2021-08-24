@@ -3,6 +3,15 @@
 {{ $section := $pinned }}
 {{ $section_title := "Pinned" }}
 
+{{ with .Params.tags }}
+    <span class="f6 text-gray mt-1">
+        <svg class="octicon octicon-tag" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true">
+            <path fill-rule="evenodd" d="略" />
+        </svg>
+        {{ range . }} <a href="/tags/{{ lower . }}/">{{ . }}</a>{{ end }}
+    </span>
+{{ end }}
+
 {{ if ne (len $pinned) 0}}
 {{ else }}
 {{ $section = where .Site.RegularPages "Section" "in" (slice "post") }}

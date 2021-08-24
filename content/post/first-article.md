@@ -1,8 +1,8 @@
 ---
 title: "First Article"
-date: "2021-08-24T20:04:20+09:00"
+date: 2021-08-24T20:04:20+09:00
 draft: false
-description: "This is a first article!"
+description: This is a first article!
 tags:
 - .vimrc
 - plugins
