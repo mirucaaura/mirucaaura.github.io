@@ -8,18 +8,43 @@
   </url>
   
   <url>
+    <loc>https://mirucaaura.github.io/tags/.vimrc/</loc>
+    <lastmod>2021-08-24T23:50:10+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mirucaaura.github.io/post/first-article/</loc>
-    <lastmod>2021-08-24T23:41:54+09:00</lastmod>
+    <lastmod>2021-08-24T23:50:10+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://mirucaaura.github.io/</loc>
-    <lastmod>2021-08-24T23:41:54+09:00</lastmod>
+    <lastmod>2021-08-24T23:50:10+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mirucaaura.github.io/tags/plugins/</loc>
+    <lastmod>2021-08-24T23:50:10+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://mirucaaura.github.io/post/</loc>
-    <lastmod>2021-08-24T23:41:54+09:00</lastmod>
+    <lastmod>2021-08-24T23:50:10+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mirucaaura.github.io/tags/spf13-vim/</loc>
+    <lastmod>2021-08-24T23:50:10+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mirucaaura.github.io/tags/</loc>
+    <lastmod>2021-08-24T23:50:10+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mirucaaura.github.io/tags/vim/</loc>
+    <lastmod>2021-08-24T23:50:10+09:00</lastmod>
   </url>
   
   <url>
@@ -29,10 +54,6 @@
   
   <url>
     <loc>https://mirucaaura.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mirucaaura.github.io/tags/</loc>
   </url>
   
 </urlset>
