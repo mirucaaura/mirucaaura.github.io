@@ -1,0 +1,26 @@
+baseURL = "https://mirucaaura.github.io/"
+languageCode = "ja-jp"
+title = "miruca's page"
+theme = "github-style"
+publishDir = "docs"
+canonifyurls = true
+math = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+copyright = "© 2021 <a href=\"https://twitter.com/mirucaaura/\"><span>@mirucaaura</span></a> all rights reserved."
+
+[params]
+  author = "miruca"
+  description = "Weniger, aber besser"
+  github = "mirucaaura"
+  twitter = "mirucaaura"
+  lastmod = true
+  favicon = "/images/avatar.png"
+  location = "Japan"
+
+  [[params.links]]
+    title = "Link"
+    href = "https://mirucacule.hatenablog.com/"
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
