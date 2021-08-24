@@ -9,6 +9,15 @@
     <copyright>© 2021 &lt;a href=&#34;https://twitter.com/mirucaaura/&#34;&gt;&lt;span&gt;@mirucaaura&lt;/span&gt;&lt;/a&gt; all rights reserved.</copyright>
     <lastBuildDate>Tue, 24 Aug 2021 20:04:20 +0900</lastBuildDate><atom:link href="https://mirucaaura.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>https://mirucaaura.github.io/about/</link>
+      <pubDate>Wed, 25 Aug 2021 08:55:30 +0900</pubDate>
+      
+      <guid>https://mirucaaura.github.io/about/</guid>
+      <description>about page.</description>
+    </item>
+    
+    <item>
       <title>Readme</title>
       <link>https://mirucaaura.github.io/readme/</link>
       <pubDate>Tue, 24 Aug 2021 20:11:30 +0900</pubDate>
@@ -23,7 +32,7 @@
       <pubDate>Tue, 24 Aug 2021 20:04:20 +0900</pubDate>
       
       <guid>https://mirucaaura.github.io/post/first-article/</guid>
-      <description>first article. $\LaTeX{}$ is $X^\top X = I$. Define
+      <description>$\LaTeX{}$ is available, $X^\top X = I$. Define
 $$ f(x)= \sum_{k=0}^{\infty} \frac{ f^{(k)}(x_0)}{n!} \left( x-x_0 \right)^k. $$</description>
     </item>
     
