@@ -29,6 +29,12 @@
               Posts
               <span class="Counter">{{ $section_count}}</span>
             </a>
+            <a class="UnderlineNav-item {{ if eq .Path "tags" }} selected {{ end }}{{ if eq .Type " tags" }} selected {{ end }}" href="{{ .Site.BaseURL }}/tags/">
+              Tags
+              <span class="Counter hide-lg hide-md hide-sm">
+                  {{ len .Site.Taxonomies.tags }}
+              </span>
+            </a>
             <a class="UnderlineNav-item {{ if eq .Path "about.md" }} selected {{ end }}{{ if eq .Type " tags" }} selected {{ end }}" href="{{ .Site.BaseURL }}/about/">
               <!-- <svg class="octicon octicon-repo UnderlineNav-octicon hide-sm" height="16" viewBox="0 0 16 16"
                 version="1.1" width="16">
