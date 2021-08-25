@@ -1,4 +1,4 @@
-baseURL = "https://mirucaaura.github.io/"
+baseURL = "https://mirucaaura.github.io"
 languageCode = "ja-jp"
 title = "miruca's page"
 theme = "github-style"
