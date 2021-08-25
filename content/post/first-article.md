@@ -22,3 +22,4 @@ What is needed is as follwos:
 - [ ] post mathematical or progamming article
 - [ ] add dairy
 - [ ] add table of ramen
+- [ ] add schedule

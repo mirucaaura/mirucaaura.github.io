@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>© 2021 &lt;a href=&#34;https://twitter.com/mirucaaura/&#34;&gt;&lt;span&gt;@mirucaaura&lt;/span&gt;&lt;/a&gt; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 25 Aug 2021 15:11:57 +0900</lastBuildDate><atom:link href="https://mirucaaura.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Aug 2021 21:06:32 +0900</lastBuildDate><atom:link href="https://mirucaaura.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Schedule</title>
+      <link>https://mirucaaura.github.io/post/schedule/</link>
+      <pubDate>Wed, 25 Aug 2021 21:06:32 +0900</pubDate>
+      
+      <guid>https://mirucaaura.github.io/post/schedule/</guid>
+      <description>Schedule  連続最適化および関連分野に関する夏季学校 科研費シンポジウム 第33回RAMP数理最適化シンポジウム (RAMP 2021)  </description>
+    </item>
+    
     <item>
       <title>Summer School of Continuous Optimization</title>
       <link>https://mirucaaura.github.io/post/summer-school/</link>
@@ -29,7 +38,7 @@ Link  連続最適化および関連分野に関する夏季学校  </descriptio
       <description>$\LaTeX{}$ is available, $X^\top X = I$. Define
 $$ f(x)= \sum_{k=0}^{\infty} \frac{ f^{(k)}(x_0)}{n!} \left( x-x_0 \right)^k. $$
 What is needed is as follwos:
- Links menu article example edit readme.md tag menu post mathematical or progamming article add dairy add table of ramen  </description>
+ Links menu article example edit readme.md tag menu post mathematical or progamming article add dairy add table of ramen add schedule  </description>
     </item>
     
     <item>
