@@ -12,3 +12,13 @@ $\LaTeX{}$ is available, $X^\top X = I$. Define
 $$
 f(x)= \sum_{k=0}^{\infty} \frac{ f^{(k)}(x_0)}{n!} \left( x-x_0 \right)^k.
 $$
+
+What is needed is as follwos:
+
+- [ ] Links menu
+- [ ] article example
+- [ ] edit `readme.md`
+- [ ] `tag` menu
+- [ ] post mathematical or progamming article
+- [ ] add dairy
+- [ ] add table of ramen
