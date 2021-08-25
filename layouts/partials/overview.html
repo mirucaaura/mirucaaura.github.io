@@ -64,10 +64,13 @@
                   </a>
                 </div>
 
-
-                <div name="summary" class="pinned-item-desc text-gray text-small d-block mt-2 mb-3">
-                  {{ .Summary | safeHTML }}
+                <div class="text-gray text-small d-block mt-2 mb-3">
+                  {{ .Description | safeHTML }}
                 </div>
+
+                <!-- <div name="summary" class="pinned-item-desc text-gray text-small d-block mt-2 mb-3">
+                  {{ .Summary | safeHTML }}
+                </div> -->
 
                 <p class="mb-0 f6 text-gray">
                   {{ with .Params.tags }}
