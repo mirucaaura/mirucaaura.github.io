@@ -7,14 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>© 2021 &lt;a href=&#34;https://twitter.com/mirucaaura/&#34;&gt;&lt;span&gt;@mirucaaura&lt;/span&gt;&lt;/a&gt; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 24 Aug 2021 20:04:20 +0900</lastBuildDate><atom:link href="https://mirucaaura.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Aug 2021 15:11:57 +0900</lastBuildDate><atom:link href="https://mirucaaura.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Summer School of Continuous Optimization</title>
+      <link>https://mirucaaura.github.io/post/summer-school/</link>
+      <pubDate>Wed, 25 Aug 2021 15:11:57 +0900</pubDate>
+      
+      <guid>https://mirucaaura.github.io/post/summer-school/</guid>
+      <description>初参加でした．すごく勉強になる内容だったので継続的に参加したい．平日開催ということもあって，フルで参加することができず，ところどころ聴けないところはあったものの，資料もアップロードされているし演習問題もあるので自習もできそう．
+ところどころで考える時間を取ってくれる形式の講義スタイルよかったし，演習の発表で学生の発表のレベルが高くて驚いた．2 年前に RIMS で佐藤先生の講演を聴いたときは多様体が全然分からなくて雰囲気しか分からなかった内容が，今回はかなり分かるようになっていて少し成長を感じた．
+不動点理論を用いた最適化アルゴリズムに関しては，関数解析の本で少し勉強した程度でほとんど知らなかった．ヒルベルト空間が舞台になっている点が難しくて，弱収束／強収束についてしっかり復習しておきたいと思った．
+Link  連続最適化および関連分野に関する夏季学校  </description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://mirucaaura.github.io/about/</link>
       <pubDate>Wed, 25 Aug 2021 08:55:30 +0900</pubDate>
       
       <guid>https://mirucaaura.github.io/about/</guid>
-      <description>about page.</description>
+      <description>ABOUT @mirucaaura</description>
     </item>
     
     <item>
@@ -45,7 +57,7 @@ What is needed is as follwos:
       
       <guid>https://mirucaaura.github.io/post/how-to-use/</guid>
       <description>hugo はインストール済みであると仮定して話を進める．
- hugo new site &amp;lt;the name of site&amp;gt; git init git submodule add https://github.com/MeiK2333/github-style.git themes/github-style cp -r ./themes/github-style/layouts/* ./layouts/ cp -r themes/github-style/static/* static/ hugo new post/first-article.md edit config.toml hugo  オプション
+ hugo new site &amp;lt;the name of site&amp;gt; git init git submodule add https://github.com/MeiK2333/github-style.git themes/github-style cp -r ./themes/github-style/layouts/* ./layouts/ cp -r themes/github-style/static/* static/ hugo new post/first-article.md edit config.toml hugo server hugo git add, commit, and push to the remote repository  オプション
  activate KaTeX (Ref: https://blog.atusy.net/2019/05/09/katex-in-hugo/)  </description>
     </item>
     

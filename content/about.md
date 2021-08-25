@@ -7,4 +7,4 @@ katex: math
 draft: false
 ---
 
-about page.
+ABOUT `@mirucaaura`

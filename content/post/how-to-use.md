@@ -15,7 +15,9 @@ katex: math
 1. `cp -r themes/github-style/static/* static/`
 1. `hugo new post/first-article.md`
 1. edit `config.toml`
+1. `hugo server`
 1. `hugo`
+1. `git add, commit, and push to the remote repository`
 
 オプション
 
