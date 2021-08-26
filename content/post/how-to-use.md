@@ -2,6 +2,7 @@
 title: "How to Use"
 description: Introduction the usage of hugo
 date: 2021-08-24T18:38:29+09:00
+tags: ["memo"]
 draft: false
 katex: math
 ---

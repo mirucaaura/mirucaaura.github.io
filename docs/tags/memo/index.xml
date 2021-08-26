@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>memo on miruca&#39;s page</title>
+    <link>https://mirucaaura.github.io/tags/memo/</link>
+    <description>Recent content in memo on miruca&#39;s page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <copyright>© 2021 &lt;a href=&#34;https://twitter.com/mirucaaura/&#34;&gt;&lt;span&gt;@mirucaaura&lt;/span&gt;&lt;/a&gt; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 24 Aug 2021 18:38:29 +0900</lastBuildDate><atom:link href="https://mirucaaura.github.io/tags/memo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Use</title>
+      <link>https://mirucaaura.github.io/post/how-to-use/</link>
+      <pubDate>Tue, 24 Aug 2021 18:38:29 +0900</pubDate>
+      
+      <guid>https://mirucaaura.github.io/post/how-to-use/</guid>
+      <description>hugo はインストール済みであると仮定して話を進める．
+ hugo new site &amp;lt;the name of site&amp;gt; git init git submodule add https://github.com/MeiK2333/github-style.git themes/github-style cp -r ./themes/github-style/layouts/* ./layouts/ cp -r themes/github-style/static/* static/ hugo new post/first-article.md edit config.toml hugo server hugo git add, commit, and push to the remote repository  オプション
+ activate KaTeX (Ref: https://blog.atusy.net/2019/05/09/katex-in-hugo/)  </description>
+    </item>
+    
+  </channel>
+</rss>
