@@ -18,9 +18,8 @@
 
     
     <meta name="description"
-  content="hugo はインストール済みであると仮定して話を進める．
- hugo new site &amp;lt;the name of site&amp;gt; git init git submodule add https://github.com/MeiK2333/github-style.git themes/github-style cp -r ./themes/github-style/layouts/* ./layouts/ cp -r themes/github-style/static/* static/ hugo new post/first-article.md edit config.toml hugo server hugo git add, commit, and push to the remote repository  オプション
- activate KaTeX (Ref: https://blog.atusy.net/2019/05/09/katex-in-hugo/)  " />
+  content="本稿では，以下の環境で静的サイトジェネレータHugoの使い方について簡単に述べる．
+Environment  Ubuntu 20.04 LTS  Install Hugo  Install Hugo  Usage  hugo new site &amp;lt;the name of site&amp;gt; git init git submodule add https://github.com/MeiK2333/github-style.git themes/github-style cp -r ./themes/github-style/layouts/* ./layouts/ cp -r themes/github-style/static/* static/ hugo new post/first-article.md edit config.toml hugo server hugo git add, commit, and push to the remote repository  KaTeX  activate KaTeX (Ref: https://blog.atusy.net/2019/05/09/katex-in-hugo/)  Refferences  Hugoテーマのカスタマイズ箇所メモ  " />
 <meta name="keywords"
   content='' />
 <meta name="robots" content="noodp" />
@@ -30,9 +29,8 @@
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="How to Use - miruca&#39;s page" />
 <meta name="twitter:description"
-  content="hugo はインストール済みであると仮定して話を進める．
- hugo new site &amp;lt;the name of site&amp;gt; git init git submodule add https://github.com/MeiK2333/github-style.git themes/github-style cp -r ./themes/github-style/layouts/* ./layouts/ cp -r themes/github-style/static/* static/ hugo new post/first-article.md edit config.toml hugo server hugo git add, commit, and push to the remote repository  オプション
- activate KaTeX (Ref: https://blog.atusy.net/2019/05/09/katex-in-hugo/)  " />
+  content="本稿では，以下の環境で静的サイトジェネレータHugoの使い方について簡単に述べる．
+Environment  Ubuntu 20.04 LTS  Install Hugo  Install Hugo  Usage  hugo new site &amp;lt;the name of site&amp;gt; git init git submodule add https://github.com/MeiK2333/github-style.git themes/github-style cp -r ./themes/github-style/layouts/* ./layouts/ cp -r themes/github-style/static/* static/ hugo new post/first-article.md edit config.toml hugo server hugo git add, commit, and push to the remote repository  KaTeX  activate KaTeX (Ref: https://blog.atusy.net/2019/05/09/katex-in-hugo/)  Refferences  Hugoテーマのカスタマイズ箇所メモ  " />
 <meta name="twitter:site" content="https://mirucaaura.github.io" />
 <meta name="twitter:creator" content="" />
 <meta name="twitter:image"
@@ -42,9 +40,8 @@
 <meta property="og:type" content="article" />
 <meta property="og:title" content="How to Use - miruca&#39;s page">
 <meta property="og:description"
-  content="hugo はインストール済みであると仮定して話を進める．
- hugo new site &amp;lt;the name of site&amp;gt; git init git submodule add https://github.com/MeiK2333/github-style.git themes/github-style cp -r ./themes/github-style/layouts/* ./layouts/ cp -r themes/github-style/static/* static/ hugo new post/first-article.md edit config.toml hugo server hugo git add, commit, and push to the remote repository  オプション
- activate KaTeX (Ref: https://blog.atusy.net/2019/05/09/katex-in-hugo/)  " />
+  content="本稿では，以下の環境で静的サイトジェネレータHugoの使い方について簡単に述べる．
+Environment  Ubuntu 20.04 LTS  Install Hugo  Install Hugo  Usage  hugo new site &amp;lt;the name of site&amp;gt; git init git submodule add https://github.com/MeiK2333/github-style.git themes/github-style cp -r ./themes/github-style/layouts/* ./layouts/ cp -r themes/github-style/static/* static/ hugo new post/first-article.md edit config.toml hugo server hugo git add, commit, and push to the remote repository  KaTeX  activate KaTeX (Ref: https://blog.atusy.net/2019/05/09/katex-in-hugo/)  Refferences  Hugoテーマのカスタマイズ箇所メモ  " />
 <meta property="og:url" content="https://mirucaaura.github.io/post/how-to-use/" />
 <meta property="og:site_name" content="How to Use" />
 <meta property="og:image"
@@ -158,9 +155,9 @@
 
                   
                   <span class="file-info-divider"></span>
-                  Modified <relative-time datetime="Thu, 26 Aug 2021 21:33:16 &#43;0900"
+                  Modified <relative-time datetime="Fri, 27 Aug 2021 20:06:55 &#43;0900"
                     class="no-wrap">
-                    Thu, 26 Aug 2021 21:33:16 &#43;0900</relative-time>
+                    Fri, 27 Aug 2021 20:06:55 &#43;0900</relative-time>
                   
                 </div>
               </div>
@@ -184,7 +181,7 @@
                         <path fill-rule="evenodd" d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"></path>
                       </svg>
                     </summary>
-                          72 Words
+                          113 Words
                     
 
                   </div>
@@ -207,7 +204,16 @@
 
 
               <div class="Box-body px-5 pb-5">
-                <article class="markdown-body entry-content container-lg"><p><code>hugo</code> はインストール済みであると仮定して話を進める．</p>
+                <article class="markdown-body entry-content container-lg"><p>本稿では，以下の環境で静的サイトジェネレータ<a href="https://gohugo.io/">Hugo</a>の使い方について簡単に述べる．</p>
+<h3 id="environment">Environment</h3>
+<ul>
+<li>Ubuntu 20.04 LTS</li>
+</ul>
+<h3 id="install-hugo">Install Hugo</h3>
+<ul>
+<li><a href="https://gohugo.io/getting-started/installing/">Install Hugo</a></li>
+</ul>
+<h3 id="usage">Usage</h3>
 <ol>
 <li><code>hugo new site &lt;the name of site&gt;</code></li>
 <li><code>git init</code></li>
@@ -220,9 +226,13 @@
 <li><code>hugo</code></li>
 <li><code>git add, commit, and push to the remote repository</code></li>
 </ol>
-<p>オプション</p>
+<h3 id="katex">KaTeX</h3>
 <ul>
 <li>activate KaTeX (Ref: <a href="https://blog.atusy.net/2019/05/09/katex-in-hugo/">https://blog.atusy.net/2019/05/09/katex-in-hugo/</a>)</li>
+</ul>
+<h3 id="refferences">Refferences</h3>
+<ul>
+<li><a href="https://suihan74.github.io/posts/2019/12_26_00_theme_customize/">Hugoテーマのカスタマイズ箇所メモ</a></li>
 </ul>
 </article>
               </div>
@@ -248,7 +258,7 @@
 
  const tippyInstance = tippy('#toc-toggle', {
   trigger: 'click',
-  content: '<div id="table-of-contents">\u003cnav id=\u0022TableOfContents\u0022\u003e\u003c\/nav\u003e</div>',
+  content: '<div id="table-of-contents">\u003cnav id=\u0022TableOfContents\u0022\u003e\n  \u003cul\u003e\n    \u003cli\u003e\n      \u003cul\u003e\n        \u003cli\u003e\u003ca href=\u0022#environment\u0022\u003eEnvironment\u003c\/a\u003e\u003c\/li\u003e\n        \u003cli\u003e\u003ca href=\u0022#install-hugo\u0022\u003eInstall Hugo\u003c\/a\u003e\u003c\/li\u003e\n        \u003cli\u003e\u003ca href=\u0022#usage\u0022\u003eUsage\u003c\/a\u003e\u003c\/li\u003e\n        \u003cli\u003e\u003ca href=\u0022#katex\u0022\u003eKaTeX\u003c\/a\u003e\u003c\/li\u003e\n        \u003cli\u003e\u003ca href=\u0022#refferences\u0022\u003eRefferences\u003c\/a\u003e\u003c\/li\u003e\n      \u003c\/ul\u003e\n    \u003c\/li\u003e\n  \u003c\/ul\u003e\n\u003c\/nav\u003e</div>',
   allowHTML: true,
   placement: 'bottom-start',
   interactive: true,

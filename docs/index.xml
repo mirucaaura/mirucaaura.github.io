@@ -7,7 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>© 2021 &lt;a href=&#34;https://twitter.com/mirucaaura/&#34;&gt;&lt;span&gt;@mirucaaura&lt;/span&gt;&lt;/a&gt; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 26 Aug 2021 21:30:52 +0900</lastBuildDate><atom:link href="https://mirucaaura.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Aug 2021 20:10:00 +0900</lastBuildDate><atom:link href="https://mirucaaura.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weak Strong Convergence</title>
+      <link>https://mirucaaura.github.io/post/weak-strong-convergence/</link>
+      <pubDate>Fri, 27 Aug 2021 20:10:00 +0900</pubDate>
+      
+      <guid>https://mirucaaura.github.io/post/weak-strong-convergence/</guid>
+      <description>「有限次元ユークリッド空間上の点列は弱収束するならば強収束する」ことを示す．
+まず，弱収束と強収束の定義を確認しておく．弱収束は無限次元空間において一般的な点列の収束（強収束のこと）を議論することが必ずしも妖異ではないためによく考えられる概念である．以下ではヒルベルト空間における弱収束の定義を述べる．
+ヒルベルト空間 $\mathcal{H}$ 上の点列 $(x_n)_{n\in\mathbb{N}}$ とある点 $x\in\mathcal{H}$ について，任意に固定された $y\in\mathcal{H}$ に対して $$ \lim_{n\to\infty} \left&amp;lt; x_n - x, y \right&amp;gt; = 0 $$ が成り立つとき，点列 $(x_n)_{n\in\mathbb{N}}$ は $x$ に弱収束するという．
+また，強収束は次のように定義される．
+ノルム空間 $X$ 上の列 $(x_n)_{n\in\mathbb{N}}$ に対して，ある点 $x\in X$ が存在し $$ \lim_{n\to\infty} \| x_n - x \| = 0 $$ が成り立つとき，点列 $(x_n)_{n\in\mathbb{N}}$ は $x$ に強収束するという．
+以下，命題に対する証明を与える．
+有限次元ユークリッド空間 $\mathbb{R}^N$ 上の点列 $(x_n)_{n\in\mathbb{N}} \subset \mathbb{R}^N$ が点 $x \in \mathbb{R}^N$ に弱収束することを仮定する．いま，$x_n = (a_{1}^{(n)}, a_{2}^{(n)}, \dots, a_{N}^{(n)})^\top$ および，$x = (a_1, a_2, \dots, a_N)^\top$ とするとき，任意の $i=1,2,\dots,N$ に対して $$ 0 = \lim_{n\to\infty} \left&amp;lt; x_n - x, e_i \right&amp;gt; = \lim_{n\to\infty} (a_{i}^{(n)} - a_i) $$ が成り立つ．ここで，$e_i = (\underbrace{0,\dots,0}_{i-1},1,0,\dots,0)^\top$ である．したがって，任意の $i=1,2,\dots,N$ に対して $$ \lim_{n\to\infty} a_{i}^{(n)} = a_i $$ が成り立つ．よって， $$ \lim_{n\to\infty} \|x_n - x\| = \lim_{n\to\infty} \sum_{i=1}^{N} \left(a_{i}^{(n)} - a_i\right)^2 = 0 $$ となり，点列 $(x_n)_{n\in\mathbb{N}}$ は $x$ に強収束する．</description>
+    </item>
+    
     <item>
       <title>Ramen</title>
       <link>https://mirucaaura.github.io/post/ramen/</link>
@@ -23,7 +38,7 @@
       <pubDate>Wed, 25 Aug 2021 21:06:32 +0900</pubDate>
       
       <guid>https://mirucaaura.github.io/post/schedule/</guid>
-      <description>2021    日付(開始) 日付(終了) 会場 講演内容     8/4(水) 8/6(金) オンライン(Zoom) RIMS 共同研究「組合せ最適化セミナー」 (第 18 回)    8/23(月) 8/25(水) オンライン(Zoom) 連続最適化および関連分野に関する夏季学校   8/27(金) 8/29(日) オンライン(Zoom) Summer School 数理物理 2021   9/1(水) 9/1(水) オンライン(Zoom) 科研費シンポジウム   11/18(木) 11/19(金) オンライン(Zoom) 第33回RAMP数理最適化シンポジウム (RAMP 2021)    </description>
+      <description>2021    日付(開始) 日付(終了) 会場 講演内容     6/19(土) 6/20(日) オンライン(Zoom) 0x セミナー第 3 回最適輸送の情報科学における進展   8/4(水) 8/6(金) オンライン(Zoom) RIMS 共同研究「組合せ最適化セミナー」 (第 18 回)    8/23(月) 8/25(水) オンライン(Zoom) 連続最適化および関連分野に関する夏季学校   8/27(金) 8/29(日) オンライン(Zoom) Summer School 数理物理 2021   9/1(水) 9/1(水) オンライン(Zoom) 科研費シンポジウム   9/16(木) 9/17(金) オンライン（九州大学） 日本オペレーションズ・リサーチ学会 2021年秋季研究発表会&amp;amp;シンポジウム   11/18(木) 11/19(金) オンライン(Zoom) 第33回RAMP数理最適化シンポジウム (RAMP 2021)    </description>
     </item>
     
     <item>
@@ -75,9 +90,8 @@ What is needed is as follwos:
       <pubDate>Tue, 24 Aug 2021 18:38:29 +0900</pubDate>
       
       <guid>https://mirucaaura.github.io/post/how-to-use/</guid>
-      <description>hugo はインストール済みであると仮定して話を進める．
- hugo new site &amp;lt;the name of site&amp;gt; git init git submodule add https://github.com/MeiK2333/github-style.git themes/github-style cp -r ./themes/github-style/layouts/* ./layouts/ cp -r themes/github-style/static/* static/ hugo new post/first-article.md edit config.toml hugo server hugo git add, commit, and push to the remote repository  オプション
- activate KaTeX (Ref: https://blog.atusy.net/2019/05/09/katex-in-hugo/)  </description>
+      <description>本稿では，以下の環境で静的サイトジェネレータHugoの使い方について簡単に述べる．
+Environment  Ubuntu 20.04 LTS  Install Hugo  Install Hugo  Usage  hugo new site &amp;lt;the name of site&amp;gt; git init git submodule add https://github.com/MeiK2333/github-style.git themes/github-style cp -r ./themes/github-style/layouts/* ./layouts/ cp -r themes/github-style/static/* static/ hugo new post/first-article.md edit config.toml hugo server hugo git add, commit, and push to the remote repository  KaTeX  activate KaTeX (Ref: https://blog.atusy.net/2019/05/09/katex-in-hugo/)  Refferences  Hugoテーマのカスタマイズ箇所メモ  </description>
     </item>
     
   </channel>
