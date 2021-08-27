@@ -5,3 +5,6 @@ draft: false
 ---
 
 `Hello World!`
+
+- [Schedule](https://mirucaaura.github.io/post/schedule/)
+- [ramen](https://mirucaaura.github.io/post/ramen/)
