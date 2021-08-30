@@ -1,6 +1,6 @@
 ---
-title: "Summer School of Continuous Optimization"
-description: "I participated in summer school of continuous optimization held in online"
+title: "Participation Log of Seminar"
+description: "participation log of seminar"
 date: 2021-08-25T15:11:57+09:00
 tags: ["seminar"]
 katex: math
