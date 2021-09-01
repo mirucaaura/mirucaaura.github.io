@@ -12,7 +12,13 @@ draft: false
 ## 数学
 
 - [関数解析学入門](http://www.math.s.chiba-u.ac.jp/~nagisa/)
-    - 渚先生が千葉大学での3年生の関数解析の講義資料などをまとめた文書（全91ページ）．
+    - 渚先生が千葉大学での3年生の関数解析の講義資料などをまとめた文書（全91ページ）
+
+## 機械学習
+
+- [Deep Learning](https://www.deeplearningbook.org/)
+    - Goodfellow et.al 2016
+    - 深層学習と言いつつ，深層学習については終盤に述べられている程度らしい
 
 ## 数理最適化関連のセミナー等
 
