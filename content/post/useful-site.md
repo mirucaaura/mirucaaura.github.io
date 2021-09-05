@@ -7,7 +7,7 @@ katex: math
 draft: false
 ---
 
-# 便利サイト
+# 便利サイト／無料 PDF
 
 ## 数学
 
@@ -19,6 +19,8 @@ draft: false
 - [Deep Learning](https://www.deeplearningbook.org/)
     - Goodfellow et.al 2016
     - 深層学習と言いつつ，深層学習については終盤に述べられている程度らしい
+- [朱鷺の杜Wiki](https://ibisforest.org/)
+    - 機械学習に関連した，データマイニング，情報理論，計算論的学習理論，統計，統計物理についての情報交換の場．
 
 ## 数理最適化関連のセミナー等
 
@@ -27,3 +29,7 @@ draft: false
 
 - [連続最適化および関連分野に関する夏季学校](https://www.ism.ac.jp/~mirai/sscoke/2021/index.html)
     - 連続最適化とその関連分野の講義・演習
+
+## PDF
+
+- [First-order and Stochastic Optimization Methods for Machine Learning](https://link.springer.com/book/10.1007/978-3-030-39568-1)
