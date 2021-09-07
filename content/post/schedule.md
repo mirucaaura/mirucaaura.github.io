@@ -16,5 +16,6 @@ draft: false
 | 8/23(月) | 8/25(水) | オンライン(Zoom) | [連続最適化および関連分野に関する夏季学校](https://www.ism.ac.jp/~mirai/sscoke/2021/index.html) | |
 | 8/27(金) | 8/29(日) | オンライン(Zoom) | [Summer School 数理物理 2021](https://www.ms.u-tokyo.ac.jp/~yasuyuki/mp2021.htm) | 講義資料等はメールに記載されている |
 | 9/1(水) | 9/1(水) | オンライン(Zoom) | [科研費シンポジウム](https://sites.google.com/view/mizunolabkakensymp2021/) | |
+| 9/7 (火) | 9/9(木) | オンライン(Zoom) | [進化計算の数理](https://www.imi.kyushu-u.ac.jp/kyodo-riyo/research_meetings/view/27) | |
 | 9/16(木) | 9/17(金) | オンライン（九州大学） | [日本オペレーションズ・リサーチ学会 2021年秋季研究発表会&シンポジウム](https://orsj.org/nc2021f/3-2/) | |
 | 11/18(木) | 11/19(金) | オンライン(Zoom) | [第33回RAMP数理最適化シンポジウム (RAMP 2021)](https://orsj.org/ramp/ramp2021/program/) | |
