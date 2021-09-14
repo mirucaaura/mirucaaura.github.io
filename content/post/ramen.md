@@ -43,3 +43,4 @@ draft: false
 | 2021/8/30 | 月 | 1 | [ラーメン ゼンゼン](https://tabelog.com/kanagawa/A1405/A140505/14073182/) | 神奈川 | 汁なし（ニンニクアブラ） | [Link](https://twitter.com/mirucaaura/status/1432288447885049867?s=20) |
 | 2021/9/05 | 日 | 1 | [えび豚骨拉麺 希家 池上店](https://tabelog.com/tokyo/A1317/A131714/13199702/) | 東京 | 豚骨ラーメン（醤油・大盛り） | [Link](https://twitter.com/mirucaaura/status/1434451247881326597?s=20) |
 | 2021/9/09 | 水 | 1 | [ラーメン ゼンゼン](https://tabelog.com/kanagawa/A1405/A140505/14073182/) | 神奈川 | ラーメン小（ニンニクアブラショウガ） | [Link](https://twitter.com/mirucaaura/status/1435615154788470788?s=20) |
+| 2021/9/13 | 月 | 1 | [ラーメン ゼンゼン](https://tabelog.com/kanagawa/A1405/A140505/14073182/) | 神奈川 | つけ麺小（ニンニクアブラ） | [Link](https://twitter.com/mirucaaura/status/1437413072688144384?s=20) |
