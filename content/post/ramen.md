@@ -46,3 +46,5 @@ draft: false
 | 2021/9/13 | 月 | 1 | [ラーメン ゼンゼン](https://tabelog.com/kanagawa/A1405/A140505/14073182/) | 神奈川 | つけ麺小（ニンニクアブラ） | [Link](https://twitter.com/mirucaaura/status/1437413072688144384?s=20) |
 | 2021/9/17 | 金 | 1 | [ラーメン ゼンゼン](https://tabelog.com/kanagawa/A1405/A140505/14073182/) | 神奈川 | ラーメン小（ニンニク別皿アブラ） | [Link](https://twitter.com/mirucaaura/status/1438880434637529099?s=20) |
 | 2021/9/23 | 木 | 1 | [麺屋武蔵 武骨外伝](https://tabelog.com/tokyo/A1303/A130301/13030753/) | 東京都 | 濃厚外伝黒つけ麺（2.5 倍） | [Link](https://twitter.com/mirucaaura/status/1440881048502476807?s=20) |
+| 2021/9/26 | 日 | 1 | [ ラーメン二郎 新宿小滝橋通り店](https://tabelog.com/tokyo/A1304/A130401/13001044/) | 東京都 | ラーメン小（ヤサイニンニクアブラ） | [Link](https://twitter.com/mirucaaura/status/1441982318030168067?s=20) |
+| 2021/9/29 | 水 | 1 | [ラーメン ゼンゼン](https://tabelog.com/kanagawa/A1405/A140505/14073182/) | 神奈川 | ラーメン小（ヤサイニンニク別皿アブラ） | [Link](https://twitter.com/mirucaaura/status/1443226093645807618?s=20) |
